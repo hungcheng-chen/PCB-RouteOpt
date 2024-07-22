@@ -1,0 +1,9 @@
+pytest
+pytest-cov
+black
+bump2version
+pandas
+openpyxl
+tqdm
+matplotlib
+scipy
